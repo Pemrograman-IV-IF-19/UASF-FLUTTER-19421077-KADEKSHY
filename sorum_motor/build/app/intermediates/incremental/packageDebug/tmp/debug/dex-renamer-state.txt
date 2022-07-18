@@ -1,0 +1,4 @@
+#Mon Jul 18 10:24:40 ICT 2022
+base.0=C\:\\Users\\BAGAS CAHYA\\Downloads\\mobile\\sorum_motor\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
